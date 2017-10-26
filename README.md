@@ -1,4 +1,4 @@
 # mojoservices-wp
 
-Video Tutorial demo theme purpose only
-This starter theme from _s 
+Video Tutorial demo theme purpose only.
+The starter theme from _s 
