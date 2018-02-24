@@ -4,7 +4,7 @@ DEMO Site ->  [mojo-services](https://thegoodartisan.com/demo/mojo-services/home
 
 Video Tutorial demo theme purpose only.
 - [starter theme from _s](http://underscores.me/)
-- Static HTML, CSS, JavaScript, convert to WP Theme
+- Static HTML, CSS, JavaScript, Flexslider, Bootstrap, convert to WP Theme
 - Create Custom PHP template
 - WP Query
 - front-page demo only
