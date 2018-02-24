@@ -1,7 +1,10 @@
 # mojoservices-wp
 
 Video Tutorial demo theme purpose only.
-- starter theme from [_s](http://underscores.me/)
+- [starter theme from _s](http://underscores.me/)
+- Static HTML, CSS, JavaScript, convert to WP Theme
+- Create Custom PHP template
+- WP Query
 - front-page demo only
 - display the slider using the front-page.php template 
 - demo for front-page, main page, or home page only
